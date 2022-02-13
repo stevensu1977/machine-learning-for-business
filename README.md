@@ -1,7 +1,7 @@
 # machine-learning-for-business
 
-
 ![book](https://images.manning.com/360/480/resize/book/3/d2bf7c7-6655-4d48-b7d8-0c762b174541/Hudgeon-MLB-HI.png)
+
 Machine Learning for business Using Amazon SageMaker and Jupyter
 
 Official site:
